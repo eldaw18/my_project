@@ -1,2 +1,2 @@
-# my_githup
+# my_project
 for my website
